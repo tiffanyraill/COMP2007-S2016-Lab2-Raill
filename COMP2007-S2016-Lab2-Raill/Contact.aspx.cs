@@ -13,5 +13,11 @@ namespace COMP2007_S2016_Lab2_Raill
         {
 
         }
+
+        protected void SendButton_Click(object sender, EventArgs e)
+        {
+            //this is temporary, you would replace this code with email processing code
+            Response.Redirect("Default.aspx");
+        }
     }
 }
