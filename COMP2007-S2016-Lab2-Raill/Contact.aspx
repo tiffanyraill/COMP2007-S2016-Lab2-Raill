@@ -10,16 +10,16 @@
             <div class="col-md-4">
                 <div class="panel panel-primary">
                     <div class="panel-heading">
-                        <h3 class="panel-title">Contact Info </h3>
+                        <h3 class="panel-title">Innovation Showcase 2014 </h3>
                     </div>
                     <div class="panel-body">
-                        <address>
+                        <media>
                             <strong>Tiffany Raill</strong><br>
                             One Georgian Drive<br>
                             Barrie, Ontario L4M 3X9<br>
                             <abbr title="Phone">Tel:</abbr>
                             (705) 773-2624
-                        </address>
+                        </media>
                     </div>
                 </div>
                 
