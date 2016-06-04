@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-offset-4 col-md-8">
-                <h1>Contact Us</h1>
+                <h1>Contact Me</h1>
             </div>
         </div>
         <div class="row">
@@ -18,7 +18,7 @@
                             One Georgian Drive<br>
                             Barrie, Ontario L4M 3X9<br>
                             <abbr title="Phone">Tel:</abbr>
-                            (705) 555-1212
+                            (705) 773-2624
                         </address>
                     </div>
                 </div>
