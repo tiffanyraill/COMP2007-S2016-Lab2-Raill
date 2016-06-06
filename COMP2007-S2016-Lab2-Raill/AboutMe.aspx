@@ -2,18 +2,31 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container">
-        <h1>About Me </h1>
-        <asp:Image ID="Image2" src="images/TRAILL.jpg" Style="width: 300px; vertical-align: middle" runat="server"></asp:Image>> 
-                    <span vertical-align: middle">
-                     <br />
-                        A Computer Studies student with a double-major in
-                    <br>
-                        Computer Programming & Computer Systems Technician Networking
-                    <br>
-                        and a passion for innovative electronic builds.
+        <div class="row">
+            <div class="col-md-offset-4 col-md-8">
+                <h1>About Me </h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="image2">
+                    <asp:Image ID="Image1" src="images/TRAILL.jpg" Style="width: 300px;" runat="server"></asp:Image>
+                </div>
+            </div>
+            <div class=" col-md-6">
+
+                <span>
                     <br />
-                    </span>
+                    Tiffany is a Computer Studies student 
+                    <br>
+                    with a double-major in Computer Programming
+                    <br>
+                    & Computer Systems Technician Networking
+                    <br>
+                    and a passion for innovative electronic builds. 
+                    <br />
+                </span>
+            </div>
+        </div>
     </div>
-
-
 </asp:Content>

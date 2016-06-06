@@ -12,7 +12,7 @@ namespace COMP2007_S2016_Lab2_Raill.User_Controls
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            JumbotronH1.InnerText = "Welcome!";
+            JumbotronH1.InnerText = "Tiffany Raill";
         }
     }
 }
